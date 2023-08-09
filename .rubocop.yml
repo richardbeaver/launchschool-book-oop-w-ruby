@@ -1,0 +1,8 @@
+Style/Documentation:
+  Enabled: false
+
+Layout/ExtraSpacing:
+  Enabled: false
+
+Style/FrozenStringLiteralComment:
+  Enabled: false
