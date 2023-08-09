@@ -102,4 +102,4 @@ p MyCar.ancestors                             # => [MyCar, Vehicle, Object, Kern
 p MyTruck.ancestors                           # => [MyTruck, Towable, Vehicle, Object, Kernel, BasicObject]
 
 puts my_car.age                               # => My Ferrari is 27 years old (As of 2023)
-puts my_car.calculate_age                     # => `NoMethodError` (Since `calculate_age` is a private method)
+# puts my_car.calculate_age                     # => `NoMethodError` (Since `calculate_age` is a private method)
